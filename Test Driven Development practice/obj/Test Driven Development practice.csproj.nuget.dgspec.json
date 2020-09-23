@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development practice.csproj": {}
+    "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development practice.csproj": {
+    "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development practice.csproj",
-        "projectName": "Test Driven Development practice",
-        "projectPath": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development practice.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development Practice.csproj",
+        "projectName": "Test Driven Development Practice",
+        "projectPath": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development Practice.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\obj\\",
         "projectStyle": "PackageReference",
