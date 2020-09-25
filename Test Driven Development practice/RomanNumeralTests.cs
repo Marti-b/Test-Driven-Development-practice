@@ -22,7 +22,7 @@ namespace Tests
     }
     public class Roman
     {
-        private static Dictionary<char, int> map = new Dictionary<char, int>()
+        private static readonly Dictionary<char, int> map = new Dictionary<char, int>()
         {
             {'I', 1 },
             {'V', 5 },
@@ -35,6 +35,7 @@ namespace Tests
         public static int Parse(string roman)
         {
             int result = 0;
+
             for (int i = 0; i < roman.Length; i++)
             {
                 if (i + 1 < roman.Length && map[roman[i]] < map[roman[i + 1]])
