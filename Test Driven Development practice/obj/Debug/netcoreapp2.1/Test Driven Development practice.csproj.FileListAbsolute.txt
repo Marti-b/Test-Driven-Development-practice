@@ -2,14 +2,14 @@ C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Test Driven Development practice.deps.json
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Test Driven Development practice.runtimeconfig.json
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Test Driven Development practice.runtimeconfig.dev.json
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Test Driven Development practice.dll
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Test Driven Development practice.pdb
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Test Driven Development practice.csprojAssemblyReference.cache
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Test Driven Development practice.csproj.CoreCompileInputs.cache
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Test Driven Development practice.AssemblyInfoInputs.cache
 C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Test Driven Development practice.AssemblyInfo.cs
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Test Driven Development practice.dll
-C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Test Driven Development practice.pdb
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\marti\Documents\Github\TDD\Test Driven Development practice\Test Driven Development practice\obj\Debug\netcoreapp2.1\Tests.pdb

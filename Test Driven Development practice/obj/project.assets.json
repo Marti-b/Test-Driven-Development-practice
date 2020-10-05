@@ -5760,9 +5760,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development practice.csproj",
-      "projectName": "Test Driven Development practice",
-      "projectPath": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\Test Driven Development practice.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\TDD.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\TDD.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marti\\Documents\\Github\\TDD\\Test Driven Development practice\\Test Driven Development practice\\obj\\",
       "projectStyle": "PackageReference",
